@@ -2,7 +2,10 @@
 
 # Home Assistant Simple Lovelace Cards
 
+[![GitHub last commit](https://img.shields.io/github/last-commit/pasleto/simple-lovelace-cards.svg)](https://github.com/pasleto/simple-lovelace-cards/commits)
+
 Author: Tomáš Pásler - github.com/pasleto
+
 
 ---
 
