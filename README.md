@@ -4,8 +4,13 @@
 
 Author: Tomáš Pásler - github.com/pasleto
 
+---
+
+## Installation
+
 To link these cards to your Home Assistant Frontend put links for these files in your ui-lovelace.yaml
 
+![](/preview/resources.png)
 
 ---
 
