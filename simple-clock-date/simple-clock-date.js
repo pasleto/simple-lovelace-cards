@@ -4,7 +4,7 @@ class SimpleClockDate extends Polymer.Element {
     return Polymer.html`
       <style>
         :host { cursor: default; }
-        .content { padding: 15px 20px 15px; }
+        .content { padding: 10px 20px 10px; }
         .main { display: flex; width: 100%; justify-content: space-between; align-items: center; }
         .clockBox { font-size: 32px !important; font-family: var(--paper-font-headline_-_font-family); -webkit-font-smoothing: var(--paper-font-headline_-_-webkit-font-smoothing);
           font-size: var(--paper-font-headline_-_font-size); font-weight: var(--paper-font-headline_-_font-weight); letter-spacing: var(--paper-font-headline_-_letter-spacing);
